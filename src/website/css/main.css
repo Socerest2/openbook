@@ -5,6 +5,17 @@
 /* Body */
 body {
     font-family: Arial;
+    background-color: #202020;
+    color: #ffffff;
+}
+/* Links */
+:link {
+    color: #ffffff;
+    text-decoration: underline;
+}
+:visited {
+    color: #ffffff;
+    text-decoration: underline;
 }
 /* Header */
 header {
