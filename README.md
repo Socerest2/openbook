@@ -1,2 +1,2 @@
-# openbook
-Open source social media like mr zucckerbergs facebook.
+# Openbook
+A free and open-source social network.
