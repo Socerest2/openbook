@@ -1,0 +1,40 @@
+/* Every single element */
+* {
+    margin: 0;
+}
+/* Body */
+body {
+    font-family: Arial;
+}
+/* Header */
+header {
+    display: flex;
+    background-color: #fda413;
+    color: #ffffff;
+    height: 50px;
+    align-items: center;
+    padding: 5px;
+}
+/* Main content */
+main {
+    padding: 10px;
+}
+/* Inputs */
+input {
+    background-color: #fda413;
+    color: #ffffff;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+}
+/* Submit inputs on hover */
+input[type=submit]:hover {
+    background-color: #cf8611;
+    cursor: pointer;
+}
+/* Footer */
+footer {
+    position: absolute;
+    bottom: 0;
+}
